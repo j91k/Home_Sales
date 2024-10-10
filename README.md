@@ -33,7 +33,7 @@ This project analyzes home sales data using PySpark SQL. It demonstrates various
 
 1. Clone the repository
 2. Ensure PySpark is installed and configured
-3. Open and run the Jupyter Notebook `Home_Sales_colab.ipynb`
+3. Open and run the Jupyter Notebook `Home_Sales.ipynb`
 
 ## Results
 
